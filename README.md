@@ -15,7 +15,7 @@ I independently developed the experimental pipeline under academic supervision, 
 - [Federated model editing with Task-Localized Sparse Fine-Tuning](https://github.com/depetrofabio/FederatedLearningProject)  
   Team project on federated model editing with CIFAR-100, non-IID clients, FedAvg, and a ViT-S/16 backbone.
 
-- [Remote-sensing classification](https://github.com/3nomerci/ML_centralesupelec)  
+- [Remote-sensing classification](https://github.com/3nomerci/ML_centralesupelec)
   Machine-learning project for six-class classification of geographical areas from preprocessed remote-sensing features.
 
 - [Cardiac Fibrosis Simulation](https://github.com/3nomerci/cardiac-fibrosis-simulation-SKNM)
