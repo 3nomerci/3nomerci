@@ -19,7 +19,7 @@ I independently developed the experimental pipeline under academic supervision, 
   Machine-learning project for six-class classification of geographical areas from preprocessed remote-sensing features.
 
 - [Cardiac Fibrosis Simulation](https://github.com/3nomerci/cardiac-fibrosis-simulation-SKNM)
-  Computational modelling of action-potential propagation in two-dimensional fibrotic cardiac tissue using bond and site percolation with simplified electrophysiological models.
+  Computational modelling of action-potential propagation in 2D fibrotic cardiac tissue using bond and site percolation with simplified electrophysiological models.
   
 - [Age Prediction from Speech](https://github.com/3nomerci/age-prediction-from-speech)  
   Regression pipeline using acoustic and linguistic features, MFCC and chroma extraction, and comparisons between SVR, Random Forest, and k-nearest neighbours.
