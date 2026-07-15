@@ -10,7 +10,7 @@ I am completing my master's thesis research at **CentraleSupélec**, on deep-lea
 
 I independently developed the experimental pipeline under academic supervision, including data preprocessing, patient-level splitting, leakage prevention, shortcut analysis, fine-tuning of pretrained vision models, multi-seed evaluation, and explainability. The work is currently being extended from image classification toward artifact detection.
 
-## Selected public work
+## Selected public projects
 
 - [Federated model editing with Task-Localized Sparse Fine-Tuning](https://github.com/depetrofabio/FederatedLearningProject)  
   Team project on federated model editing with CIFAR-100, non-IID clients, FedAvg, and a ViT-S/16 backbone.
@@ -20,6 +20,9 @@ I independently developed the experimental pipeline under academic supervision, 
 
 - [Cardiac Fibrosis Simulation](https://github.com/3nomerci/cardiac-fibrosis-simulation-SKNM)
   Computational modelling of action-potential propagation in two-dimensional fibrotic cardiac tissue using bond and site percolation with simplified electrophysiological models.
+  
+- [Age Prediction from Speech](https://github.com/3nomerci/age-prediction-from-speech)  
+  Regression pipeline using acoustic and linguistic features, MFCC and chroma extraction, and comparisons between SVR, Random Forest, and k-nearest neighbours.
 
 ## Technical stack
 
