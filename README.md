@@ -18,6 +18,9 @@ I independently developed the experimental pipeline under academic supervision, 
 - [Remote-sensing classification](https://github.com/3nomerci/ML_centralesupelec)  
   Machine-learning project for six-class classification of geographical areas from preprocessed remote-sensing features.
 
+- [Cardiac Fibrosis Simulation](https://github.com/3nomerci/cardiac-fibrosis-simulation-SKNM)
+  Computational modelling of action-potential propagation in two-dimensional fibrotic cardiac tissue using bond and site percolation with simplified electrophysiological models.
+
 ## Technical stack
 
 **Programming:** Python, MATLAB, C++, SQL  
